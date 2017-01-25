@@ -1,0 +1,25 @@
+body{
+background-color:#D3DDF5;
+margin:20px;
+}
+#messages{
+background-color:white;
+width:400px;
+margin-left:50px;
+height:400px;
+padding:10px;
+border:2px solid red;
+overflow:scroll;
+display:bottom;
+}
+#f{
+
+
+margin-left:50px;
+
+padding:10px;
+}**/
+#feedback
+{
+display:none;
+}
